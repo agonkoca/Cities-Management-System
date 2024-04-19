@@ -18,6 +18,14 @@ How to Use:
 4. Navigation: Use the intuitive interface to browse through cities and retrieve desired information effortlessly.
 
 
+Technologies Used:
+1. Java: Programming language for the backend logic.
+2. JSON: Data storage format for city information.
+3. Lombok: Used for reducing boilerplate code and increasing productivity.
+4. Maven: Dependency management tool for managing project dependencies.
+5. Jackson: JSON parsing library for efficient handling of JSON data.
+
+
 Disclaimer:
 
 The data provided by the Cities Management System is sourced from publicly available information and may not always be up-to-date. Users are encouraged to verify the information from official sources before making decisions based on it.
