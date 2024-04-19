@@ -1,0 +1,114 @@
+[
+  {
+    "code": "PR",
+    "name": "Prishtina",
+    "population": 213162,
+    "area_km2": 572,
+    "budget": "Very high",
+    "identification": [
+      {
+        "postal_code": 10000,
+        "area_code": "+383 (0) 38",
+        "vehicle_registration": "01"
+      }
+    ]
+  },
+  {
+    "code": "SK",
+    "name": "Skenderaj",
+    "population": 52586,
+    "area_km2": 378,
+    "budget": "Medium",
+    "identification": [
+      {
+        "postal_code": 40000,
+        "area_code": "+383 28",
+        "vehicle_registration": "02"
+      }
+    ]
+  },
+  {
+    "code": "PE",
+    "name": "Peja",
+    "population": 174235,
+    "area_km2": 603,
+    "budget": "High",
+    "identification": [
+      {
+        "postal_code": 30000,
+        "area_code": "+383 (0) 39",
+        "vehicle_registration": "03"
+      }
+    ]
+  },
+  {
+    "code": "PZ",
+    "name": "Prizren",
+    "population": 193806,
+    "area_km2": 627,
+    "budget": "High",
+    "identification": [
+      {
+        "postal_code": 20000,
+        "area_code": "+383 (0) 29",
+        "vehicle_registration": "04"
+      }
+    ]
+  },
+  {
+    "code": "FR",
+    "name": "Ferizaj",
+    "population": 105663,
+    "area_km2": 345,
+    "budget": "Low",
+    "identification": [
+      {
+        "postal_code": 70000,
+        "area_code": "+383 29",
+        "vehicle_registration": "05"
+      }
+    ]
+  },
+  {
+    "code": "GL",
+    "name": "Gjilan",
+    "population": 73518,
+    "area_km2": 385,
+    "budget": "Medium",
+    "identification": [
+      {
+        "postal_code": 60000,
+        "area_code": "+383 (0) 28",
+        "vehicle_registration": "06"
+      }
+    ]
+  },
+  {
+    "code": "GJ",
+    "name": "Gjakova",
+    "population": 40827,
+    "area_km2": 587,
+    "budget": "High",
+    "identification": [
+      {
+        "postal_code": 50000,
+        "area_code": "+383 390",
+        "vehicle_registration": "07"
+      }
+    ]
+  },
+  {
+    "code": "MT",
+    "name": "Mitrovica",
+    "population": 85360,
+    "area_km2": 331,
+    "budget": "Medium",
+    "identification": [
+      {
+        "postal_code": 40000,
+        "area_code": "+383 28",
+        "vehicle_registration": "02"
+      }
+    ]
+  }
+]
