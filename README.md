@@ -6,6 +6,7 @@ Welcome to the Cities Management System! This Java project aims to provide compr
 
 
 Features:
+
 City Information: Obtain detailed data about cities, including their geographical area, population size, and postal codes.
 Vehicle Registration: Access information on vehicle registration within each city, facilitating transportation analysis and planning.
 Budget Classification: Categorize cities based on their budget types, ranging from low-budget municipalities to high-budget metropolises.
@@ -16,7 +17,9 @@ How to Use:
 3. Run: Execute the compiled program to access the Cities Management System interface.
 4. Navigation: Use the intuitive interface to browse through cities and retrieve desired information effortlessly.
 
+
 Disclaimer:
+
 The data provided by the Cities Management System is sourced from publicly available information and may not always be up-to-date. Users are encouraged to verify the information from official sources before making decisions based on it.
 
 Thank you for using the Cities Management System! We hope it proves to be a valuable tool for your city-related inquiries.
